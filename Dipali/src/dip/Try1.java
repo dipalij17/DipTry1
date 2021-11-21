@@ -6,6 +6,9 @@ public class Try1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" Trying to upload project on Git ");
+	
+		System.out.println("check for update....");
+	
 	}
 
 }
